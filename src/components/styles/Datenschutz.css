@@ -1,0 +1,95 @@
+/* MAIN WRAPPER */
+.datenschutz-main {
+  min-height: 100vh;
+  padding-top: 160px;
+  padding-bottom: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  box-sizing: border-box;
+}
+
+/* CENTER CONTENT */
+.datenschutz-container {
+  max-width: 900px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* CARD */
+.datenschutz-card {
+  border: 1px solid rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.04);
+  backdrop-filter: blur(10px);
+  border-radius: 22px;
+  padding: 32px;
+}
+
+/* HEADER */
+.datenschutz-header {
+  margin-bottom: 50px;
+}
+
+.datenschutz-title {
+  font-size: 44px;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.datenschutz-subtitle {
+  margin-top: 15px;
+  color: rgba(255,255,255,0.7);
+}
+
+/* SECTION */
+.datenschutz-section {
+  margin-bottom: 30px;
+}
+
+.datenschutz-section h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.datenschutz-text {
+  line-height: 1.8;
+  color: rgba(255,255,255,0.85);
+}
+
+/* LINKS */
+.datenschutz-text a {
+  color: white;
+  text-decoration: underline;
+}
+
+/* FOOTER */
+.datenschutz-footer {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  font-size: 12px;
+  opacity: 0.6;
+}
+
+.datenschutz-footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.datenschutz-footer a:hover {
+  opacity: 1;
+}
+
+/* MOBILE */
+@media (max-width:768px) {
+
+.datenschutz-title {
+  font-size: 32px;
+}
+
+.datenschutz-card {
+  padding: 22px;
+}
+
+}
