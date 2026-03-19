@@ -1,16 +1,45 @@
-# My Portfolio Wesbite - Overview 🚀
+# 🚀 Khurram Codes Portfolio
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Ein modernes, interaktives Portfolio, erstellt mit React, Three.js und GSAP, um meine Arbeit, meine Fähigkeiten und meine Projekte zu präsentieren.
 
-## Instructions 🛠️
+---
 
-Check out here: https://gsap.com/docs/v3/Installation/
+## 🌐 Live Demo
+👉 https://portfolio.khurramcodes.de/
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+---
 
-![Portfolio-Preview](public/images/preview.png)
+## ✨ Features
 
-## License
+- Interaktive 3D-Technologie mit Three.js
+- Flüssige Animationen dank GSAP
+- Vollständig responsives Design (Mobilgeräte + Desktop)
+- Moderne Benutzeroberfläche
+- Rechtliche Hinweise (Impressum & Datenschutz)
 
-This project is open source and available under the [MIT License](LICENSE).
+---
+
+## 🛠 Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Three.js (React Three Fiber)
+- GSAP
+- HTML, CSS, JavaScript
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](./public/images/preview.png)
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/khurri-collab/khurramcodes-portfolio.git
+cd khurramcodes-portfolio
+npm install
+npm run dev
