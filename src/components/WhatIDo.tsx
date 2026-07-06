@@ -90,7 +90,7 @@ const WhatIDo = () => {
               <h3>FRONTEND</h3>
               <h4>Moderne Interfaces</h4>
               <p>
-                Ich entwickle hochwertige, responsive Benutzeroberflächen mit Fokus auf Performance, Usability und sauberes Design.
+                Ich entwickle hochwertige, responsive Benutzeroberflächen mit Fokus auf Performance, Benutzerfreundlichkeit und sauberes Design.
               </p>
               <h5>Technologien & Tools</h5>
               <div className="what-content-flex">
@@ -129,7 +129,7 @@ const WhatIDo = () => {
               <h3>BACKEND</h3>
               <h4>Robuste Systeme</h4>
               <p>
-                Ich entwickle skalierbare Backend-Lösungen, APIs und Automatisierungen, die zuverlässig arbeiten und Geschäftsprozesse effizient unterstützen.
+                Ich entwickle skalierbare Backend-Lösungen, APIs und Automatisierungen, die zuverlässig funktionieren und Geschäftsprozesse effizient unterstützen.
               </p>
               <h5>Technologien & Tools</h5>
               <div className="what-content-flex">
